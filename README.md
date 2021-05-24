@@ -1,2 +1,2 @@
-# test
-this is task of aagamya 
+# test 
+this repo contains a website made for providng online day to day services to end user 
